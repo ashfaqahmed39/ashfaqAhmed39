@@ -1,56 +1,99 @@
-# Hi there 👋, I'm Ashfaq Ahmed
+# Hi 👋, I'm  
+# **Ashfaq Ahmed**
 
-QA Automation Engineer | Mobile & Web Automation | CI/CD Enthusiast  
-
-🚀 **I automate, test, and optimize to make software better!**
-
----
-
-## 🔧 **Tech Stack**
-- **Automation Tools:** Nightwatch, Appium, Selenium, TestNG, Playwright  
-- **Languages:** Java, JavaScript, Python  
-- **API Testing:** Postman, REST Assured  
-- **CI/CD & DevOps:** GitHub Actions, Docker, Jenkins  
-- **Reporting:** Allure, Extent Reports  
+### **A passionate SQA Engineer from Bangladesh**
 
 ---
 
-## 🏆 **Highlights**
-- Built **scalable mobile automation frameworks** with Appium + TestNG  
-- Integrated **CI/CD pipelines** with GitHub Actions for faster feedback  
-- Designed **cross-browser & cross-device test suites**  
-- Experienced in **API & integration testing**  
+## 🔭 I’m currently working on  
+**80LV Automated Testing Framework**  
+🔗 https://github.com/YOUR_USERNAME/80lv-automation
 
 ---
 
-## 📂 **Pinned Projects**
-| Project | Description |
-|---------|-------------|
-| [Mobile Automation Framework](https://github.com/YOUR_USERNAME/mobile-automation) | Appium + TestNG framework with CI/CD integration |
-| [Web Automation Framework](https://github.com/YOUR_USERNAME/web-automation) | Nightwatch/Playwright framework for web applications |
-| [Docker CI Runner](https://github.com/YOUR_USERNAME/docker-ci) | Scalable test runner for parallel execution |
-| [API Testing Suite](https://github.com/YOUR_USERNAME/api-tests) | Postman & REST Assured automated API tests |
-| [Allure Reports Integration](https://github.com/YOUR_USERNAME/allure-reports) | Automated reporting setup for all projects |
+## 👯 I’m looking to collaborate on  
+**Mobile Automation (Appium + TestNG) Frameworks**  
+🔗 https://github.com/YOUR_USERNAME/appium-mobile-framework
 
 ---
 
-## 📊 **GitHub Stats**
-
-![Ashfaq's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
-## 🏅 **Achievements & Badges**
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=5)
+## 🤝 I’m looking for help with  
+**Scaling CI/CD pipelines with GitHub Actions + Docker (Matrix + Allure Merge)**  
+🔗 https://github.com/YOUR_USERNAME/ci-cd-automation
 
 ---
 
-## 📫 **Connect with Me**
-- LinkedIn: [Ashfaq Ahmed](https://www.linkedin.com/in/YOUR_LINKEDIN/)  
-- Email: ashfaq@example.com  
-- Portfolio: [YourPortfolio.com](https://yourportfolio.com)
+## 🌱 I’m currently learning  
+- **Advanced Appium 9.0.0**  
+- **Nightwatch.js Mobile/Web Automation**  
+- **GitHub Actions (Reusable Workflows, Matrix Execution)**  
+- **Docker-based parallel test execution**  
+- **Performance Testing Basics (k6 / JMeter)**  
 
 ---
 
-> "Automating today for a bug-free tomorrow." 🔧
+## 💬 Ask me about  
+- Mobile Automation (Appium)  
+- Web Automation (Nightwatch / Playwright)  
+- GitHub Actions CI/CD  
+- TestNG, Page Object Models  
+- Allure Reporting  
+- QA Best Practices  
+
+---
+
+## 📫 How to reach me  
+**ashfaqahmed3339@gmail.com**
+
+---
+
+## 👨‍💻 All of my projects are available at  
+🌐 **Portfolio:** https://yourportfolio.com
+
+---
+
+## 📝 I regularly write articles on  
+✍️ **Blog:** https://yourblog.com
+
+---
+
+## 📄 Know about my experiences  
+📌 **Resume:** https://yourresume.com
+
+---
+
+## ⚡ Fun fact  
+**I break things so users don’t have to.**
+
+---
+
+## 🛠️ Skills  
+### **Automation & Testing**  
+- Appium (Mobile Automation)  
+- Nightwatch.js  
+- Playwright  
+- Selenium  
+- TestNG  
+- WebdriverIO  
+- API Testing (Postman, REST Assured)  
+
+### **Programming & Scripting**  
+- Java  
+- JavaScript  
+- Python (basic automation scripts)  
+
+### **CI/CD & DevOps Tools**  
+- GitHub Actions  
+- Jenkins  
+- Docker  
+- Allure Reports  
+
+### **Other QA Skills**  
+- Bug Reporting  
+- Test Strategy & Test Plan  
+- Regression & Smoke Testing  
+- Cross-browser & Cross-device Testing  
+- Agile / Scrum workflow  
+
+---
+
