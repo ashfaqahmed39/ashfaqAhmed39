@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashfaq Ahmed</h1>
 <h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on **80LV**
+- 🔭 I’m currently working on **Kothon**
 
 - 👨‍💻 Portfolio: [https://ashfaqahmedportfolio.netlify.app/](https://ashfaqahmedportfolio.netlify.app/)
 
